@@ -1,0 +1,15 @@
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\bin\Debug\net6.0\day3.exe
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\bin\Debug\net6.0\day3.deps.json
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\bin\Debug\net6.0\day3.runtimeconfig.json
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\bin\Debug\net6.0\day3.dll
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\bin\Debug\net6.0\ref\day3.dll
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\bin\Debug\net6.0\day3.pdb
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\day3.csproj.AssemblyReference.cache
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\day3.AssemblyInfoInputs.cache
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\day3.AssemblyInfo.cs
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\day3.csproj.CoreCompileInputs.cache
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\day3.dll
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\ref\day3.dll
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\day3.pdb
+C:\Users\zacht\Desktop\AdventOfCode2021\day3\obj\Debug\net6.0\day3.genruntimeconfig.cache
